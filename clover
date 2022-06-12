@@ -1,5 +1,6 @@
 0.0.0.0 aic.recommend.lgtvcommon.com
-0.0.0.0 aic.service.lgtvcommon.com
+#This is the weather widget URL
+# 0.0.0.0 aic.service.lgtvcommon.com
 0.0.0.0 aic.nudge.lgtvcommon.com
 0.0.0.0 aic.netflixvoice.lgtvcommon.com
 0.0.0.0 aic.homeprv.lgtvcommon.com
