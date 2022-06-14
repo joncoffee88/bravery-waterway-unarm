@@ -1,7 +1,10 @@
 0.0.0.0 aic.recommend.lgtvcommon.com
-#This is the weather widget URL
-# 0.0.0.0 aic.service.lgtvcommon.com
 0.0.0.0 aic.nudge.lgtvcommon.com
 0.0.0.0 aic.netflixvoice.lgtvcommon.com
 0.0.0.0 aic.homeprv.lgtvcommon.com
 0.0.0.0 aic.cdpsvc.lgtvcommon.com
+
+#This next one disables all appstore and weather functions.
+#0.0.0.0 aic.lgtviot.com
+#This is the weather widget URL
+# 0.0.0.0 aic.service.lgtvcommon.com
