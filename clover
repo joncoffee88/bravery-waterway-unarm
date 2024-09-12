@@ -1,3 +1,5 @@
+####### LG-TV OS Blocking
+
 #This next one is the "Trending Now" section on the home screen.
 0.0.0.0 aic.recommend.lgtvcommon.com
 0.0.0.0 aic.nudge.lgtvcommon.com
